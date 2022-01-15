@@ -24,7 +24,7 @@ public class Qustions3 {
 			while (sayi2 < sayi) {
 				top2 = toplam(sayi2);
 				if (sayi == top2 && sayi2 == top) {
-					System.out.println(sayi + " ve " + sayi2 + " sayilari mükemmel sayidir" );
+					System.out.println(sayi + " ve " + sayi2 + " çifti arkadaþ sayidir" );
 					sayac++;
 				}
 				sayi2++;
